@@ -1,1 +1,8 @@
-{"name": "PolicyOracle", "description": "DORA Art. 5/9 policy management \u2014 10 MCP tools for ICT policy register, gap analysis", "category": "compliance", "tags": ["dora", "policy", "compliance", "ict"], "tools": 10, "transport": "streamable-http", "endpoint": "https://tooloracle.io/policy/mcp/"}
+{
+  "name": "policyOracle",
+  "description": "DORA Art. 5/9 Policy Management \u2014 10 MCP tools for security policies",
+  "repository": "https://github.com/ToolOracle/policyoracle",
+  "endpoint": "https://tooloracle.io/policy/mcp/",
+  "tools": 10,
+  "license": "MIT"
+}
