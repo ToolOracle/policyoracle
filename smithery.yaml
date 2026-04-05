@@ -1,0 +1,5 @@
+name: PolicyOracle
+description: DORA Policy management — 10 tools
+endpoint: https://tooloracle.io/policy/mcp/
+transport: streamable-http
+license: MIT
